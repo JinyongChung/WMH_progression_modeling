@@ -19,4 +19,4 @@ example3.mat: Bullseye presentation
 
 **Resources**
 
-MNI_ch2better_WM_20ROIs: 20 ROIs from WM parcellation in MNI space (0.5mm X 0.5mm X 0.5mm)
+MNI_ch2better_WM_20ROIs.nii: 20 ROIs from WM parcellation in MNI space (0.5mm X 0.5mm X 0.5mm)
