@@ -19,6 +19,8 @@ example3.mat: Bullseye presentation
 
 **Resources**
 
+Dataset1.mat: Sample data
+
 3-subtype_model: 3-subtype model developed by this study through SuStaIn modeling
 
 MNI_ch2better_WM_20ROIs.nii: 20 ROIs from WM parcellation in MNI space (0.5mm X 0.5mm X 0.5mm)
