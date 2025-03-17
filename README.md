@@ -4,7 +4,7 @@ For SuStaIn modeling, we utilized source codes ("SuStaInMatlab-master"; https://
 
 For bullseye presentation, we utilized MATLAB toolbox ("bullseye"; https://www.mathworks.com/matlabcentral/fileexchange/16458-bullseye-polar-data-plot) developed by Daniel Ennis.
 
-For bullseye parcellation of the cerebral white matter, we utilized bullseye pipeline using part of the FreeSurfer output and commands https://github.com/gsanroma/bullseye_pipeline
+For bullseye parcellation of the cerebral white matter, we utilized bullseye pipeline using part of the FreeSurfer output and commands (https://github.com/gsanroma/bullseye_pipeline).
 
 ---
 
