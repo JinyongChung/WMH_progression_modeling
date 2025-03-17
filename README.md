@@ -10,7 +10,7 @@ For bullseye presentation, we utilized MATLAB toolbox ("bullseye"; https://www.m
 
 **example1.m**: Calculate WMH severity from WMH volume (based on <1>new controls or <2>low-risk controls [n=13,811] from UK Biobank) and run SuStaIn modeling
 
-**example2.m**: Individual staging and subtyping, based on the 3-subtype model developed by this study
+**example2.m**: Individual subtyping and staging, based on the 3-subtype model developed by this study
 
 **example3.m**: Bullseye presentation
 
