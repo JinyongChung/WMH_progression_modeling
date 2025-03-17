@@ -8,26 +8,26 @@ For bullseye presentation, we utilized MATLAB toolbox ("bullseye"; https://www.m
 
 ## **Examples**
 
-example1.mat: Calculate WMH severity from WMH volume (based on new controls or low-risk controls (n=13,811) from UK Biobank and run SuStaIn modeling
+**example1.m**: Calculate WMH severity from WMH volume (based on new controls or low-risk controls [n=13,811] from UK Biobank and run SuStaIn modeling
 
-example2.mat: Individual staging and subtyping, based on the 3-subtype model developed by this study
+**example2.m**: Individual staging and subtyping, based on the 3-subtype model developed by this study
 
-example3.mat: Bullseye presentation
+**example3.m**: Bullseye presentation
 
-example4.mat: Mixed-effects regression for risk factors across subtypes and stages
+**example4.m**: Mixed-effects regression for risk factors across subtypes and stages
 
 ---
 
 ## **Resources**
 
-Dataset1.mat: Sample data 1
+**Dataset1.mat**: Sample data 1
 
-Dataset2.mat: Sample data 2
+**Dataset2.mat**: Sample data 2
 
-Dataset3.mat: Risk factors for Sample data 2
+**Dataset3.mat**: Risk factors for Sample data 2
 
-Residual_info.mat: Pre-calculated (based on low-risk controls (n=13,811) from UK Biobank) mean and standard deviation of residuals to normalize WMH volume into WMH severity (z-score)
+**Residual_info.mat**: Pre-calculated (based on low-risk controls [n=13,811] from UK Biobank) mean and standard deviation of residuals to normalize WMH volume into WMH severity (z-score)
 
-3-subtype_model: 3-subtype model developed by this study through SuStaIn modeling
+**3-subtype_model**: 3-subtype model developed by this study through SuStaIn modeling
 
-MNI_ch2better_WM_20ROIs.nii.gz: 20 ROIs from WM parcellation in MNI space (0.5mm X 0.5mm X 0.5mm)
+**MNI_ch2better_WM_20ROIs.nii.gz**: 20 ROIs from WM parcellation in MNI space (0.5mm X 0.5mm X 0.5mm)
